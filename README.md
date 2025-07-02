@@ -1,50 +1,48 @@
-# DentalCare Clinic Website
+# 🦷 Dentist Ashy — Dental Clinic Website
 
-Welcome to the official GitHub repository for **DentalCare Clinic**, a modern and professional dental clinic website.
+**Dentist Ashy** is a modern and responsive website for a dental clinic, developed using **HTML5**, **SCSS**, and **JavaScript**. The project focuses on clean layout, responsive sections, scroll animations, and an overall user-friendly structure.
 
-## 🦷 About the Project
+## 🔗 Live Demo
 
-This project showcases a responsive and user-friendly website for a dental clinic. It includes information about services, doctors, appointment booking, contact details, and more. The goal is to provide patients with clear and accessible information while maintaining a clean and professional design.
+👉 [View the live site on Vercel](https://dentist-ashy.vercel.app/)
 
-## 💡 Features
+## 🛠️ Tech Stack
 
-- Home page with welcome message and clinic overview  
-- Services section (e.g. cleaning, whitening, implants, etc.)  
-- About Us section with doctor profiles  
-- Online appointment booking form  
-- Contact page with embedded map and working hours  
-- Fully responsive design for mobile and desktop  
-- SEO-optimized and lightweight code
+- HTML5
+- SCSS (for responsive and modular styling)
+- JavaScript
+- Vercel (deployment)
 
-## 🛠️ Technologies Used
+## 📦 Features
 
-- HTML5  
-- CSS3 / SCSS  
-- JavaScript (Vanilla or React/Vue – adjust depending on your stack)  
-- Optional: Bootstrap or Tailwind  
-- Google Fonts & FontAwesome Icons
+- 🦷 Elegant and professional dental clinic design  
+- 📱 Fully responsive layout (desktop & mobile)  
+- 🎯 Smooth scroll navigation between sections  
+- 🎨 Styled with SCSS for clean modular design  
+- ⚙️ JavaScript used for interactive behavior
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
-project-folder/
+Dentist-Ashy/
 ├── index.html
 ├── css/
-│ └── style.css
+│ └── main.scss
 ├── js/
 │ └── main.js
-├── images/
-│ └── (clinic-related images)
-├── readme-images/
-│ └── desktop.png
+├── img/
+│ └── [images]
 └── README.md
 
-## 🙌 Contributing
+📘 What I Learned
+Layout structuring for service-based websites
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+SCSS best practices
 
----
+Scroll-based navigation and animations
 
-**DentalCare Clinic** – Your smile, our priority.
+Building mobile-first responsive websites
+
+Deploying with Vercel
 
 ## 📸 Demo Screenshots
 
