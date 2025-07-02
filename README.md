@@ -2,6 +2,10 @@
 
 **Dentist Ashy** is a modern and responsive website for a dental clinic, developed using **HTML5**, **SCSS**, and **JavaScript**. The project focuses on clean layout, responsive sections, scroll animations, and an overall user-friendly structure.
 
+## 📸 Demo Screenshots
+
+![DentalCare Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 ## 🔗 Live Demo
 
 👉 [View the live site on Vercel](https://dentist-ashy.vercel.app/)
@@ -44,6 +48,3 @@ Building mobile-first responsive websites
 
 Deploying with Vercel
 
-## 📸 Demo Screenshots
-
-![DentalCare Desktop Demo](./readme-images/desktop.png "Desktop Demo")
